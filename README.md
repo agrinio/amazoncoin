@@ -1,0 +1,4 @@
+amazoncoin
+==========
+
+altcoin
